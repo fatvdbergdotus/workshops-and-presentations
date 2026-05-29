@@ -1,6 +1,11 @@
 (c) 2026 Freek van den Berg. All rights reserved.
 
 # Workshops, presentations, posters and articles by Freek van den Berg
+This repository contains a curated collection of workshops, presentations, demos, and supporting materials covering a range of technologies, practices, and lessons learned from real-world projects. The content has been created for conferences, user groups, internal training sessions, and community events, with the goal of sharing practical knowledge that can be applied immediately.
+
+Rather than focusing solely on theory, these sessions emphasize hands-on learning, real-world examples, and actionable insights. Whether you are exploring a topic for the first time or looking to deepen your expertise, the materials are designed to provide both foundational understanding and practical guidance.
+
+Each workshop or presentation may include slides, demonstrations, exercises, sample code, and additional references. Together, they form a growing knowledge base that reflects ongoing learning, experimentation, and experience within the technology community.
 
 ## Workshops
 - [Manual for the excellent VWO course Modelling of Business Processes at RU Nijmegen](workshop/Handleiding_vwo.pdf) 
