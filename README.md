@@ -33,3 +33,4 @@ Each workshop or presentation may include slides, demonstrations, exercises, sam
 
 ## Articles
 - [Artikel NEMO kennis link over Freek van den Berg](article/Artikel_Kennislink_FreekvandenBerg.pdf)
+- [Wikipedia article: Digital ticket](https://en.wikipedia.org/wiki/Digital_ticket)
