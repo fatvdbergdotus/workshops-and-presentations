@@ -32,5 +32,5 @@ Each workshop or presentation may include slides, demonstrations, exercises, sam
 - [System of Systems Engineering 2018 poster](poster/sose2018poster.pdf)
 
 ## Articles
-- [Artikel NEMO kennis link over Freek van den Berg](article/Artikel_Kennislink_FreekvandenBerg.pdf)
+- [Artikel NEMO kennis link over Freek van den Berg's PhD (Dutch)](article/Artikel_Kennislink_FreekvandenBerg.pdf)
 - [Wikipedia article: Digital ticket](https://en.wikipedia.org/wiki/Digital_ticket)
