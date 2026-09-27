@@ -14,7 +14,7 @@ Each workshop or presentation may include slides, demonstrations, exercises, sam
 
 ## Information
 - [Presentation for the Bachelor information days at Radboud University](information/bachelorvoorlichting.pdf)
-- [Presentation for the Bachelor information days at Radboud University nov 2011.pdf](information/bachelorvoorlichting%20nov%202011.pdf)
+- [Presentation for the Bachelor information days at Radboud University nov 2011](information/bachelorvoorlichting%20nov%202011.pdf)
 - [One slide about my PhD candidate position](information/one_slide_about_the_PHD_position.pdf)
 - [TU/e Employee day 2019](information/TUe_Employee_day_2019_FreekVanDenBerg.pdf)
 
